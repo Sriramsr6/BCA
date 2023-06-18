@@ -1,0 +1,27 @@
+1.Explain the concept of amazonEC2 IaaS Service provider?
+
+2.Explain the services of Google Cloiud Platform?
+
+3. Explain the concept of Microsoft Azure IaaS service provider?
+
+4. Explain the concept of Cloud Deployment Models?
+
+5. Explain briefly the concept of Memory and data Virtualization?
+				
+6. Explain the architecture of VMware Infrastructure?
+
+Short questions. 
+
+Explain Google cloud platform operational benefits?
+
+Explain Advantages of Cloud Computing?
+
+Explain the Differences between public cloud and private cloud? 
+
+What is Virtualization explain types of Hypervisors?
+
+Explain the Advantages of Virtualization?
+Explain Software Virtualization?
+
+
+ 

@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"translate",
+				"translateX()\ttransform"
+			],
+			[
+				"tr",
+				"translateX()\ttransform"
+			],
+			[
+				"artm",
+				"ArithmeticException"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"ch",
+				"character"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"width",
+				"width\tproperty"
+			],
+			[
+				"m",
+				"mask\tproperty"
+			],
+			[
+				"mar",
+				"shape-margin\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/bca/java/stringopr.java",
+		"/F/bca/java/sample.java",
+		"/F/bca/java/Evenodd.java",
+		"/I/f&f/The Fast Furious 2 (2003).mkv",
+		"/F/Movies/Marvel Series Collection/Spider ManSeries/The_Amazing_Spiderman.mp4",
+		"/F/bca/java/swapping.java",
+		"/C/Users/hrithik/Desktop/mainpage.html",
+		"/C/Users/hrithik/Desktop/login page.html",
+		"/C/xampp/htdocs/ftm/main.jpg",
+		"/C/Users/hrithik/Desktop/page.html",
+		"/C/Users/hrithik/Desktop/page.java",
+		"/C/Users/hrithik/Desktop/page.php",
+		"/C/Users/hrithik/Desktop/html/Google.html",
+		"/C/Users/hrithik/Desktop/html/google.css",
+		"/C/xampp/htdocs/ftm/addmed.css",
+		"/C/xampp/htdocs/ftm/addmed.html",
+		"/C/Users/hrithik/Desktop/google.css",
+		"/C/Users/hrithik/Desktop/Google.html",
+		"/C/Users/hrithik/Desktop/sublime/signin.html",
+		"/C/xampp/htdocs/ftm/a.php",
+		"/C/Users/hrithik/Desktop/sublime/signin (2).css",
+		"/C/xampp/htdocs/ftm/create.html",
+		"/D/project/webpage1.html",
+		"/D/project/register.html",
+		"/D/project/login form.html",
+		"/C/xampp/htdocs/ftm/insert.php",
+		"/C/xampp/htdocs/ftm/create.css",
+		"/D/project/webpage.html",
+		"/C/xampp/htdocs/ftm/b.php",
+		"/C/Users/hrithik/Desktop/sublime/med.css",
+		"/C/Users/hrithik/Desktop/sublime/med.html",
+		"/F/project/sublime/project/signin.html",
+		"/C/Users/hrithik/Desktop/sublime/signin.php",
+		"/C/Users/hrithik/Desktop/sublime/signup.css",
+		"/C/Users/hrithik/Desktop/sublime/signup.html",
+		"/C/Users/hrithik/Desktop/sublime/style1.css",
+		"/C/Users/hrithik/Desktop/sublime/styles.css",
+		"/C/Users/hrithik/Desktop/sublime/menu.html",
+		"/C/Users/hrithik/Desktop/sublime/btn.css",
+		"/C/Users/hrithik/Desktop/sublime/profile.css",
+		"/C/Users/hrithik/Desktop/sublime/profile.html",
+		"/C/Users/hrithik/Desktop/sublime/style.css",
+		"/C/Users/hrithik/Desktop/sublime/home.html",
+		"/C/Users/hrithik/Desktop/sublime/help.html",
+		"/C/Users/hrithik/Desktop/sublime/help.css",
+		"/C/Users/hrithik/Desktop/sublime/call us.html",
+		"/C/Users/hrithik/Desktop/sublime/email us.html",
+		"/F/sublime/home.html",
+		"/F/sublime/style.css",
+		"/C/Users/hrithik/Desktop/sublime/styles1.css",
+		"/C/Users/hrithik/Desktop/sublime/page.html",
+		"/C/Users/hrithik/AppData/Local/Microsoft/Windows/INetCache/IE/QWNZX9S3/20191017_17[1].txt",
+		"/C/Users/hrithik/AppData/Local/Microsoft/Windows/INetCache/IE/QWNZX9S3/entries[1].index"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "exeption han.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"med",
+				"C:\\Users\\hrithik\\Desktop\\sublime\\med.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,11 @@
+1.order by and group by clause s in my sql with examples.
+
+2.date and time functions and formats in mysql.
+
+3.different types of data types in php.
+
+4.string manipulation functions in php.
+5.different  data types in perl.
+
+6.statements and control structure s in perl.
+7.how to create and execute php program.
